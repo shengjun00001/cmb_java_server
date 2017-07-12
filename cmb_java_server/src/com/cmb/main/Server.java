@@ -11,7 +11,7 @@ public class Server {
 		
 		while (true) {
 			Thread.sleep(60*1000);
-			// 主线程暂时啥也不做
+			
 		}
 	}
 	
